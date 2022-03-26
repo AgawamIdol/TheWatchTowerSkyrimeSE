@@ -2,8 +2,8 @@
 Fully modded Skyrim SE 
 * [Installation](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#installation) 
   * [Steam](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#steam)  
-        * [Disable Steam Overlay](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#disable-steam-overlay) 
-        * [Skyrim Updates](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#skyrim-updates)
+    * [Disable Steam Overlay](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#disable-steam-overlay) 
+    * [Skyrim Updates](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#skyrim-updates)
 
 # Installation
 
