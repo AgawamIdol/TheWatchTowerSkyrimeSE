@@ -44,9 +44,9 @@ Once the launcher has opened, click "Install From Disk" and point it to "TheWatc
 Wabbajack will ask you to log into Nexus. This is where most of the mods come from. The downloads will be automatic if you have a premium account. If not, you will have to hit the download buttons for each mod. There are about 600+. 😊
 
 ## Post Installtion
+Before you can dive into the game, there are some files that need to be moved around. We are mainly bringing in .dll files and changing some settings to make sure the game runs smoothly. 
 
 ### Installing Mods
-Before you can dive into the game, there are some files that need to be moved around. We are mainly bringing in .dll files and changing some settings to make sure the game runs smoothly. 
 
 Go to the installtion folder and launch **ModOrganizer.exe**. Click yes to any pop ups that appear. First, we need to install a patch that is missing. Download it from [here](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=209150&game_id=1704). You need to add this mod to ModOrganizer and enable it. 
 
@@ -60,4 +60,7 @@ Go to the installtion folder and launch **ModOrganizer.exe**. Click yes to any p
 
 We also need a patch for particles. Download and install it using the above steps. [Skyrim Particle Patch](https://mega.nz/file/vpNFFawJ#aqjydQJ_08uRRzXRdK8cJwg55RwXXK2hV_uT7xagzNM)
 
+### Changing Game Files
+We need to now add some games files, as well as edit one file in our directory. 
 
+In ModOrganizer, change the drop down from **SKSE** to **Explore Virtual Folder**. Then click Run. 
