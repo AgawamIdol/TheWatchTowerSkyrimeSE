@@ -11,6 +11,8 @@
     * [Skyrim Updates](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#skyrim-updates)
     * [Downgrade Steam](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#downgrade-skyrim)
    * [Wabbajack](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/README.md#wabbajack)
+   * [Post Installation](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#post-installtion)
+     * [Installing Mods](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#installing-mods) 
 
 # Installation
 
@@ -43,13 +45,14 @@ Wabbajack will ask you to log into Nexus. This is where most of the mods come fr
 
 ## Post Installtion
 
+### Installing Mods
 Before you can dive into the game, there are some files that need to be moved around. We are mainly bringing in .dll files and changing some settings to make sure the game runs smoothly. 
 
 Go to the installtion folder and launch **ModOrganizer.exe**. Click yes to any pop ups that appear. First, we need to install a patch that is missing. Download it from [here](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=209150&game_id=1704). You need to add this mod to ModOrganizer and enable it. 
 
 * Click the button in the upper left hand corner to add a mod. 
 * Select the mod you just downloaded. 
-* Double-click the mod on the right hand side to install it. 
+* Double-click the mod on the right hand side to install it. (If it is already installed, ignore this step)
 * Check the box next to it in the list to enable it. 
 
 ![Download](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/Download.png)
