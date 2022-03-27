@@ -21,5 +21,5 @@ Bethesda is still updating this game. When it does it will break all your mods. 
 * Right Click your game in your steam library
 * Go to Properties
 * Go to the updates Tab
-* Change the drop down to "Only updaet this game when I launch it"
+* Change the drop down to "Only update this game when I launch it"
 
