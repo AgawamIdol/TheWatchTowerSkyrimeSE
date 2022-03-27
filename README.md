@@ -1,4 +1,5 @@
 # The WatchTower SkyrimeSE
+![TheWatchTower](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/invite_banner.png)
 Fully modded Skyrim SE 
 * [Installation](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#installation) 
   * [Steam](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#steam)  
