@@ -10,6 +10,7 @@
     * [Disable Steam Overlay](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#disable-steam-overlay) 
     * [Skyrim Updates](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#skyrim-updates)
     * [Downgrade Steam](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#downgrade-skyrim)
+   * [Wabbajack](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/README.md#wabbajack)
 
 # Installation
 
@@ -39,4 +40,8 @@ Grab the latest version of Wabbajack.exe from [here](https://github.com/wabbajac
 Once the launcher has opened, click "Install From Disk" and point it to "TheWatchTower.wabbajack" file that you downloaded that was included in the zip. **Installation Location** should NOT be in your skyrim directory. This is where all of the installed mods will go. Make sure you choose a place or create a folder that you can find later. **Download Location**, same thing. This is where all the mods will be downloaded before being installed. 
 
 Wabbajack will ask you to log into Nexus. This is where most of the mods come from. The downloads will be automatic if you have a premium account. If not, you will have to hit the download buttons for each mod. There are about 600+. 😊
+
+## Post Installtion
+
+Before you can dive into the game, there are some files that need to be moved around. 
 
