@@ -79,3 +79,5 @@ Drag and drop all of the **Game Folder Files** into this directory. Then click i
 Now **save** this file and close out back to ModOrganizer. **DO NOT FORGET TO SAVE!!**
 
 Change your drop down back to **SKSE**. Then click Run. Your game should now be good to play!
+
+![Run](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/SKSE.png)
