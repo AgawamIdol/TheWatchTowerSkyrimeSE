@@ -64,3 +64,6 @@ We also need a patch for particles. Download and install it using the above step
 We need to now add some games files, as well as edit one file in our directory. 
 
 In ModOrganizer, change the drop down from **SKSE** to **Explore Virtual Folder**. Then click Run. 
+![Virtual](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/Virtual.png)
+
+This will open you directly to the Skyrim data folder. We need to go back a directory. On the left hand side, click **Skyrim Special Edition**. It is right above the highlighted folder. 
