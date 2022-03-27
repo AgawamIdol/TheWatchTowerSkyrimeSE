@@ -1,7 +1,7 @@
 # The WatchTower Skyrim SE
 ![TheWatchTower](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/invite_banner.png)
 
-**Before getting started, download the .zip folder above. These folders will be referenced during the installation process.** 
+**Before getting started, download the .zip folder above and unzip it. These folders will be referenced during the installation process.** 
 ![Zip](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/zip.png)
 
 # Directory 
@@ -13,6 +13,7 @@
    * [Wabbajack](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/README.md#wabbajack)
    * [Post Installation](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#post-installtion)
      * [Installing Mods](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#installing-mods) 
+     * [Changing Game Files](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#changing-game-files)
 
 # Installation
 
@@ -67,3 +68,14 @@ In ModOrganizer, change the drop down from **SKSE** to **Explore Virtual Folder*
 ![Virtual](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/Virtual.png)
 
 This will open you directly to the Skyrim data folder. We need to go back a directory. On the left hand side, click **Skyrim Special Edition**. It is right above the highlighted folder. 
+![Direct](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/Direct.png)
+
+Drag and drop all of the **Game Folder Files** into this directory. Then click into the **Skyrim** folder. In here there is only one file. The SkyrimPrefs.ini file. There are some settings in here we need to change to get visuals to work properly. Double click it to open it. In here you want to:
+* set bEnableImprovedSnow= value to 0.
+* set bDrawLandShadows= 1
+* set bTreesReceiveShadows= 1
+* make sure fGamma= value is set to 1.0000
+
+Now **save** this file and close out back to ModOrganizer. **DO NOT FORGET TO SAVE!!**
+
+Change your drop down back to **SKSE**. Then click Run. Your game should now be good to play!
