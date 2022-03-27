@@ -28,4 +28,8 @@ Bethesda is still updating this game. When it does it will break all your mods. 
 ### Downgrade Skyrim
 We are going to need to downgrade Skyrim from AE(Annivarsy edition) to SE(Special Edition). We are using Skyrim version 1.5.97. Download the **FullPatcher.exe** from [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files). If you run into any issues with the patcher, please make sure your game is fully up to date on Steam. 
 
+## Wabbajack
+
+Grab the latest version of Wabbajack.exe from [here](https://github.com/wabbajack-tools/wabbajack/releases). Put the Wabbajack.exe in it's own folder. Then double-click the Wabbajack.exe to start the launcher. 
+
 
