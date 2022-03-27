@@ -8,7 +8,7 @@ Fully modded Skyrim SE
 # Installation
 
 ## Steam
-Install Skyrim SE. It is ok if it is the latest version because we are going to downgrade it later. Make sure to open skyrim completely then quit.
+Install Skyrim SE from steam. It is ok if it is the latest version because we are going to downgrade it later. Make sure to open skyrim completely then quit. If you are using a non legittimate version, you are going to need to put the installation in your steam directory. Otherwise, wabbajack will not know where you skyrim is installed. 
 
 ### Disable Steam Overlay
 Steam overlay causes issues with ENB and it is recommended to be turned off. 
