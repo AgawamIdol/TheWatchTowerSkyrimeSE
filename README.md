@@ -47,10 +47,14 @@ Before you can dive into the game, there are some files that need to be moved ar
 
 Go to the installtion folder and launch **ModOrganizer.exe**. Click yes to any pop ups that appear. First, we need to install a patch that is missing. Download it from [here](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=209150&game_id=1704). You need to add this mod to ModOrganizer and enable it. 
 
-* Click the button in the upper right hand corner to add a mod. 
+* Click the button in the upper left hand corner to add a mod. 
 * Select the mod you just downloaded. 
 * Double-click the mod on the right hand side to install it. 
 * Check the box next to it in the list to enable it. 
+
 ![Download](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/Download.png)
+![Enable](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/blob/main/images/Enable.png)
+
+We also need a patch for particles. Download and install it using the above steps. [Skyrim Particle Patch](https://mega.nz/file/vpNFFawJ#aqjydQJ_08uRRzXRdK8cJwg55RwXXK2hV_uT7xagzNM)
 
 
