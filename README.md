@@ -5,6 +5,7 @@ Fully modded Skyrim SE
   * [Steam](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#steam)  
     * [Disable Steam Overlay](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#disable-steam-overlay) 
     * [Skyrim Updates](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#skyrim-updates)
+    * [Downgrade Steam](https://github.com/AgawamIdol/TheWatchTowerSkyrimeSE/edit/main/README.md#downgrade-skyrim)
 
 # Installation
 
@@ -23,4 +24,8 @@ Bethesda is still updating this game. When it does it will break all your mods. 
 * Go to Properties
 * Go to the updates Tab
 * Change the drop down to "Only update this game when I launch it"
+
+### Downgrade Skyrim
+We are going to need to downgrade Skyrim from AE(Annivarsy edition) to SE(Special Edition). We are using Skyrim version 1.5.97. Download the **FullPatcher.exe** from [here](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files). If you run into any issues with the patcher, please make sure your game is fully up to date on Steam. 
+
 
