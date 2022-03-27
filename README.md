@@ -18,7 +18,7 @@ Steam overlay causes issues with ENB and it is recommended to be turned off.
 * Uncheck "Enable the Steam Overlay while in-game"
 
 ### Skyrim Updates
-Bethesda is still updating this game. When it does it will break all your mods. You want to make sure that steam does not automatically update teh game for you. 
+Bethesda is still updating this game. When it does it will break all your mods. You want to make sure that steam does not automatically update the game for you. 
 * Right Click your game in your steam library
 * Go to Properties
 * Go to the updates Tab
